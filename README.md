@@ -7,11 +7,11 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A food delivery app made with flutter (Use Provider State Management) Firebase. This app has email authentication and backend already build in. The user can create an account browse the menu add to cart and input card payment details.
-##pages
+
 
 Login Page / Register Page / Home Page / Drawer Menu / Setting Page / Food Details Page / Cart Page /
  Payment Page / Delivery In Progress Page
- ##cart
+
  
  • Cart:- add/ remove/ increase & decrease quantity / go to checkout
  • Receipt Generator :- Automatically calculates everything in the cart and creates a receipt for the user as a
